@@ -1,0 +1,23 @@
+{
+  "name": "my-diary-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thgabi1/my-diary-backend.git"
+  },
+  "author": "Gabriella Toth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thgabi1/my-diary-backend/issues"
+  },
+  "homepage": "https://github.com/thgabi1/my-diary-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.19.0"
+  }
+}
